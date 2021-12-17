@@ -1,7 +1,7 @@
 
 new_name = prompt('Введите ваше имя');
 console.log(new_name)
-alert(`Your name: ${new_name}` );
+alert(`Ваше имя: ${new_name}` );
 let scores = 0;
 let q1 = prompt("1.Как называется язык разметки? a) HTML b) CSS c) JavaScript");
 if(q1 == 'a'){
