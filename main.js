@@ -1,24 +1,4 @@
-// console.log("Hello Alina");
-// // String - cтрока
-// var name = "Alina";
-// console.log(name); 
-// const num_year = 2021;
-// year =`Happy ${num_year} new year!`
-// console.log(year);
-// // Number - число
-// let number = "123456";
-// console.log(number);
-// num2 = 23.5
-// num3 = -10
-// new_name = prompt('Enter your name');
-// console.log(new_name)
-// alert(`Your name: ${new_name}` );
-// x = 10
-// if (num_year > x) {
-//     console.log('2021 > x')
-// } else{
-//     console.log('Другое решение')
-// }
+
 new_name = prompt('Введите ваше имя');
 console.log(new_name)
 alert(`Your name: ${new_name}` );
